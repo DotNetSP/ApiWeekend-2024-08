@@ -22,3 +22,17 @@ Este evento foi uma parceria entre a comunidade [**.NET SP**](https://www.meetup
 Formulário utilizado para inscrições: [**Sympla**](https://www.sympla.com.br/evento/api-weekend-back-ends-seguranca-automacao-gratuito-e-presencial-sao-paulo-sp/2588419)
 
 Local: Escola SENAI Suíço-Brasileira Paulo Ernesto Tolle - Rua Bento Branco de Andrade Filho, 379 - Santo Amaro - São Paulo/SP - CEP 04757-000
+
+---
+
+![Banner do evento](img/banner-api-weekend-2024.png)
+
+![Renato palestrando](img/a-11.jpg)
+
+![Renato palestrando 2](img/a-12.jpg)
+
+![Milton palestrando](img/a-31.jpg)
+
+![Milton palestrando 2](img/a-33.jpg)
+
+![Renato, Milton, Angelo + Participantes do Painel](img/a-50.jpg)
