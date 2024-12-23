@@ -8,6 +8,12 @@ Organizadores:
 
 Número de participantes: **30 pessoas**
 
+Apresentações/talks que aconteceram durante o evento:
+**1) Governança e Boas Práticas no uso APIs REST com o Azure API Management - Milton Camara Gomes (Microsoft MVP, MTAC)**
+**2) Testes em APIs REST: de validações e performance à segurança em endpoints - Postman, k6 e ZAP Scan - Renato Groffe (Microsoft MVP, MTAC)**
+
+Tecnologias abordadas: **Azure API Management, Docker, Linux, Postman, k6, .NET, ASP.NET Core, JavaScript, Azure DevOps, Azure Pipelines, Git**
+
 Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
 
 Este evento foi uma parceria entre a comunidade [**.NET SP**](https://www.meetup.com/dotnet-Sao-Paulo/) e a [**Escola Senai Suíço-Brasileira Paulo Ernesto Tolle**](https://suicobrasileira.sp.senai.br/).
