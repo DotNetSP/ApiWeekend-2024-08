@@ -13,7 +13,7 @@ Apresentações/talks que aconteceram durante o evento:
 - **Testes em APIs REST: de validações e performance à segurança em endpoints - Postman, k6 e ZAP Scan - Renato Groffe (Microsoft MVP, MTAC)**
 - **Painel de discussão: Boas Práticas e Segurança no Desenvolvimento de APIs REST - Renato Groffe (Microsoft MVP, MTAC), Milton Camara Gomes (Microsoft MVP, MTAC), Angelo Belchior (Microsoft MVP, MTAC)**
 
-Tecnologias abordadas: **Azure API Management, Docker, Linux, Postman, k6, .NET, ASP.NET Core, JavaScript, Azure DevOps, Azure Pipelines, Git**
+Tecnologias abordadas: **Azure API Management, Docker, Linux, Postman, k6, .NET, ASP.NET Core, JavaScript, Azure DevOps, Azure Pipelines, Azure Repos, Git**
 
 Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
 
